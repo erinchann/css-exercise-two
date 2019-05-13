@@ -64,6 +64,26 @@ a{
   color: #343434;
 }
 
+/* unvisited link */
+a:link {
+  color: #343434;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #D058D2;
+}
+
+/* selected link */
+a:active {
+  color: #0000FF;
+}
+
 article {
   padding-top: 100px;
 }
